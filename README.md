@@ -1,5 +1,5 @@
-Código Mermaid
-'''
+Código Mermaid:
+```
 classDiagram
     Iphone -->ReprodutorMusical
     Iphone -->AparelhoTelefonico
@@ -19,4 +19,4 @@ classDiagram
         +adicionarNovaAba()
         +atualizarPagina()
     }
-'''
+```
